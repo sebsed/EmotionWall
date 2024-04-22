@@ -1,0 +1,3 @@
+# Ignose access keys
+*.csv
+__pycache__
